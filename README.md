@@ -10,7 +10,7 @@ Objectives:
 3. Which countries have the most unicorns? Are there any cities that appear to be industry hubs?
 4. Which investors have funded the most unicorns?
 
-![Excel](https://img.shields.io/badge/Application-Microsoft_Excel-forestgreen)
+![Excel](https://img.shields.io/badge/Application-Microsoft_Excel-lightgreen)
 - Formulae: TEXT(), TEXTSPLIT(), TRIM()
 - Features: Trendline, Slicers, Pivot table, Map chart, Histogram, Column chart, Bargraph, Treemap, Macros, VBA
 
